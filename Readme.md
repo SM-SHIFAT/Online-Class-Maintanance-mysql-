@@ -1,4 +1,5 @@
 Welcome to Online Class Maintanance Project.
+A windows software to maintain online class schedule and attendance.
 
 Developed by: Syed Mahfuzur Rahman
 ---------------------------------------------------------
